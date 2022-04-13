@@ -36,4 +36,5 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0 )
 shape = SubResource( 2 )
 
 [node name="Tween" type="Tween" parent="."]
+
 [connection signal="tween_completed" from="Tween" to="." method="_on_Tween_tween_completed"]
