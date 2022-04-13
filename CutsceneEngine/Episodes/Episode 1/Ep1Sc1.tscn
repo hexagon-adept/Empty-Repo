@@ -1,0 +1,39 @@
+[gd_scene load_steps=9 format=2]
+
+[ext_resource path="res://Characters/Knight.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Environments/LandianFlagshipInterior.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Engine Resources/Cam.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Characters/LandianM.tscn" type="PackedScene" id=4]
+[ext_resource path="res://Characters/Baron.tscn" type="PackedScene" id=5]
+[ext_resource path="res://Engine Resources/DialoguePlayer.tscn" type="PackedScene" id=6]
+[ext_resource path="res://Episodes/Episode 1/Ep1Sc1.gd" type="Script" id=7]
+[ext_resource path="res://Engine Resources/Waypoint.tscn" type="PackedScene" id=8]
+
+[node name="Spatial" type="Spatial"]
+script = ExtResource( 7 )
+
+[node name="DialoguePlayer" parent="." instance=ExtResource( 6 )]
+EpisodeToLoad = "Episode1"
+
+[node name="Waypoints" type="Spatial" parent="."]
+
+[node name="Waypoint" parent="Waypoints" instance=ExtResource( 8 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.838, 0.952, 0.545743 )
+visible = false
+
+[node name="Actors" type="Spatial" parent="."]
+
+[node name="Baron" parent="Actors" instance=ExtResource( 5 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.38722, 0, -0.0857892 )
+
+[node name="LandianM" parent="Actors" instance=ExtResource( 4 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6.12591, 0, 0.378187 )
+
+[node name="Knight" parent="Actors" instance=ExtResource( 1 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -2.65929, 0, -0.664972 )
+
+[node name="Navigation" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 4.69336, 0, 0 )
+
+[node name="Cam" parent="." instance=ExtResource( 3 )]
+transform = Transform( 1, 0, 0, 0, 0.981627, 0.190809, 0, -0.190809, 0.981627, 0, 2.43163, 7.46287 )

@@ -1,0 +1,48 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Engine Resources/DialoguePlayer.tscn" type="PackedScene" id=1]
+[ext_resource path="res://AnimationPlayerTest.gd" type="Script" id=2]
+
+
+
+[sub_resource type="Animation" id=1]
+resource_name = "Episode1Timeline"
+tracks/0/type = "method"
+tracks/0/path = NodePath("AnimationPlayer/DialoguePlayer")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"values": [ {
+"args": [ "Scene1" ],
+"method": "play_scene"
+} ]
+}
+
+[sub_resource type="Animation" id=2]
+resource_name = "test1"
+tracks/0/type = "method"
+tracks/0/path = NodePath("AnimationPlayer/DialoguePlayer")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"values": [ {
+"args": [ "Scene2" ],
+"method": "play_scene"
+} ]
+}
+
+[node name="AnimationPlayer" type="AnimationPlayer"]
+anims/Episode1Timeline = SubResource( 1 )
+anims/test1 = SubResource( 2 )
+script = ExtResource( 2 )
+
+[node name="DialoguePlayer" parent="." instance=ExtResource( 1 )]
+EpisodeToLoad = "TestEpisode"

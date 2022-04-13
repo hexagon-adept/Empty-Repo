@@ -1,0 +1,32 @@
+Scene1
+
+CREW: My lord, we are approaching the blockade. The besieging Trade Union fleet is in sight. <LandianM Neutral1>
+BARON: Tell the first group to get ready. <Baron Neutral1>
+CREW: We’re entering their attack range! <LandianF Talking1>
+BARON: ...... <Baron Neutral1>
+BARON: Battle stations! <Baron Neutral1>
+
+[The Landians man their battle stations.]
+[Suddenly, the BARON speaks up again.]
+
+BARON: Those Trade Union snobs will taste defeat yet... <Baron Neutral1>
+
+Scene2
+
+RAGNA: Sipping tea at a time like this… <Ragna Neutral1>
+RAGNA: You people scare me. <Ragna Talking1>
+PEARL: The great Tyrant Ragna, scared of a little girl? <Pearl Smiling2>
+RAGNA: Don’t twist my words, woman. <Ragna Neutral1>
+RAGNA: It’s everyone in the damn Trade Union. You all reek of blood money. <Ragna Talking5>
+PEARL: There’s tea for two, you know. <Pearl Neutral1>
+RAGNA: No thanks. I’m allergic to your suffocating kindness. <Ragna Angry2>
+PEARL: Suit yourself. <Pearl Explaining1>
+
+Scene3
+
+PEARL: Status report, please. <Pearl Neutral1>
+AREA: Certainly, madam. <Area Neutral1>
+AREA: The Landian Navy is pressing the attack. It is likely that they will try to break through the blockade. <Area Talking1>
+PEARL: To deliver supplies to the surface, no doubt. But we can’t have that now, can we? <Pearl Talking2>
+PEARL: Shore up our defenses. Focus fire on the transports. <Pearl Neutral1>
+AREA: Relaying orders... <Area Neutral1>

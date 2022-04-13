@@ -1,0 +1,23 @@
+[gd_scene load_steps=4 format=2]
+
+[sub_resource type="NavigationMesh" id=1]
+vertices = PoolVector3Array( -9.1, 0, -4.1, -9.1, 0, 4, -0.0999994, 0, 4, -0.0999994, 0, -4.1, -9.1, 0, -4.1, -0.0999994, 0, 4, -0.0999994, 0, 4, 9.2, 0, 4, 9.2, 0, -4.1, -0.0999994, 0, 4, 9.2, 0, -4.1, -0.0999994, 0, -4.1 )
+polygons = [ PoolIntArray( 2, 1, 0 ), PoolIntArray( 5, 4, 3 ), PoolIntArray( 8, 7, 6 ), PoolIntArray( 11, 10, 9 ) ]
+agent/radius = 0.76
+agent/max_climb = 0.1
+polygon/verts_per_poly = 3.0
+
+[sub_resource type="PlaneMesh" id=2]
+size = Vector2( 20, 10 )
+
+[sub_resource type="SpatialMaterial" id=3]
+albedo_color = Color( 0.764706, 0.454902, 1, 1 )
+
+[node name="Navigation" type="Navigation"]
+
+[node name="NavigationMeshInstance" type="NavigationMeshInstance" parent="."]
+navmesh = SubResource( 1 )
+
+[node name="MeshInstance" type="MeshInstance" parent="NavigationMeshInstance"]
+mesh = SubResource( 2 )
+material/0 = SubResource( 3 )

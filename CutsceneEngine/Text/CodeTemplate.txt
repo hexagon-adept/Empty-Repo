@@ -1,0 +1,48 @@
+extends Spatial
+
+# Initialize Helper Nodes
+onready var DialoguePlayer = get_node("DialoguePlayer")
+onready var Nav = get_node("Navigation")
+onready var Cam = get_node("Cam")
+var Waypoint = []
+var Campoint = []
+
+# Initialize Actors
+# Template: onready var Pearl = get_node("Actors/Pearl")
+
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	# More Initialization
+	for node in $Waypoints.get_children():
+		Waypoint.push_back(node)
+	for node in $Campoints.get_children():
+		Campoint.push_back(node)
+
+	# Connect Signals
+	DialoguePlayer.connect("sceneComplete", self, "onSceneComplete")
+	for node in $Actors.get_children():
+		node.connect("moveComplete", self, "onMoveComplete")
+	Cam.connect("panComplete", self, "onPanComplete")
+	Cam.connect("shakeComplete", self, "onShakeComplete")
+
+	# /////////////////////////// CHOREOGRAPHY ///////////////////////////
+
+
+
+	# ////////////////////////////////////////////////////////////////////
+
+func onSceneComplete():
+	pass
+	
+func onMoveComplete():
+	pass
+	
+func onPanComplete():
+	pass
+
+func onFadeComplete():
+	pass
+
+func onShakeComplete():
+	pass

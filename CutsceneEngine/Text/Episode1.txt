@@ -1,0 +1,1025 @@
+(1 The Landians run the blockade)
+
+[Open with an overworld shot of a Landian convoy warping in with the assistance of a beacon ship. Zoom out to reveal a ring of Trade Union ships blockading Squall.]
+
+[Squall; besieged Landian factory world]
+
+[Shot of the Landian flagship interior]
+
+1.1
+CREW: My lord, we are approaching the blockade. The besieging Trade Union fleet is in sight. <LandianM Neutral1>
+BARON: Tell the first group to get ready. <Baron Neutral1>
+CREW: We're entering their attack range! <Knight Neutral1>
+BARON: ...... <Baron Neutral1>
+BARON: Battle stations! <Baron Neutral1>
+
+[Overworld shot as the Landian convoy engages the blockade. Cut to a scene of the Arpeggio firing its cannons]
+[Shot of the Arpeggio's interior. Explosions outside. Pearl is sipping a cup of tea.]
+
+1.2
+PEARL: ...... <Pearl Tired1>
+
+[Screen shakes, explosion in the distance]
+
+1.3
+RAGNA: Sipping tea at a time like this... <Ragna Neutral1>
+RAGNA: You people scare me. <Ragna Talking1>
+
+1.4
+PEARL: The great Tyrant Ragna, scared of a little girl? <Pearl Subtle2>
+RAGNA: Don't twist my words, woman. <Ragna Neutral1>
+RAGNA: It's everyone in the damn Trade Union. You all reek of blood money. <Ragna Talking5>
+
+[PEARL sips her tea contemplatively.]
+
+1.5
+PEARL: Mm. This is really quite good. <Pearl Subtle4>
+PEARL: There's tea for two, you know. <Pearl Subtle1>
+
+1.6
+RAGNA: No thanks. I'm allergic to your suffocating kindness. <Ragna Explaining1>
+PEARL: Suit yourself. <Pearl Explaining1>
+
+[AREA walks over to PEARL.]
+
+1.7
+PEARL: Status report, please. <Pearl Neutral1>
+AREA: Certainly, madam. <Area Neutral1>
+AREA: The Landian Navy is pressing the attack. It is likely that they will try to break through the blockade. <Area Talking1>
+
+1.8
+PEARL: To deliver supplies to the surface, no doubt. But we can't have that now, can we? <Pearl Tired1>
+PEARL: Shore up our defenses. Focus fire on the transports. <Pearl Talking1>
+AREA: Relaying orders... <Area Neutral1>
+
+[Shot of Trade Union cannons]
+
+1.9
+ADJUTANT: Beep. Boop. Beep. <Adjutant4 Neutral1>
+ADJUTANT: All batteries, fire on the transports. <Adjutant4 Neutral1>
+
+[Cannons fire]
+[Shot of blockade runners getting hit]
+[Interior shot of Landian blockade runner]
+
+CREW: The engine room is taking damage! They're tearing us to shreds... <LandianF Distressed1>
+CREW: We'll take them with us!  <LandianM Distressed2>
+
+[Ship goes up in flames]
+[Exterior shot of explosion as the doomed transport rams a union starship]
+
+CREW: Attack group A has lost its transports. <Knight Neutral1>
+BARON: Hmph. Those Trade Union scum have set up a pretty effective firing line. <Baron Neutral1>
+BARON: It seems high command's predictions were correct. <Baron Neutral1>
+BARON: This isn't going to be simple. <Baron Neutral1>
+CREW: What are your orders? <Knight Neutral1>
+
+BARON: Tell the survivors to withdraw. Call up the second group of transports.<Baron Neutral1>
+
+[Shot of Landian ships retreating. One catches fire and explodes.]
+
+2 The Board calls in
+
+[Command room shot of Arpeggio. An explosion from the distance rocks the ship]
+
+AREA: The enemy is retreating. <Area Neutral1>
+PEARL: But of course. They're no match against our corporate might. <Pearl Smiling1>
+RAGNA: Tch. The Landia Dominion doesn't give up that easily. They'll be back. <Ragna Explaining1>
+RAGNA: You're an idiot. <Ragna Tired1>
+PEARL: ...... <Pearl Neutral1>
+PEARL: How crass. <Pearl Annoyed1>
+
+[AREA walks over to the console.]
+
+AREA: Madam, we're receiving a communications request. <Area Talking1>
+RAGNA: Let me guess. Those geezers again? <Ragna Neutral1>
+PEARL: The Board of Directors... <Pearl Neutral1>
+PEARL: Patch them through. <Pearl Talking1>
+
+[A hologram of AUGUSTINE appears on the command bridge.]
+
+AUGUSTINE: Ms. Real. <Augustine Neutral1>
+PEARL: Director Augustine. <Pearl Neutral1>
+AUGUSTINE: I see you've brought your mutt with you. <Augustine Neutral1>
+RAGNA: Who're you calling a mutt, old fool? <Ragna Angry1>
+AUGUSTINE: It speaks. How amusing. <Augustine Neutral1>
+AUGUSTINE: Might I suggest cutting off its tongue? <Augustine Neutral1>
+PEARL: Unfortunately, I'll be needing that tongue of his... though it is rather sharp. <Pearl Tired1>
+PEARL: If you have any objections, Director, please recall my agreement with the Board. <Pearl Talking1>
+AUGUSTINE: ...Do what you want with the mongrel. Just keep him in check. <Augustine Neutral1>
+PEARL: Very well. <Pearl Neutral1>
+PEARL: ...Ragna, do you mind leaving the command bridge for a bit? <Pearl Talking1>
+RAGNA: ...... <Ragna Annoyed1>
+RAGNA: I was already on my way out. <Ragna Neutral1>
+
+[RAGNA leaves the bridge.]
+
+AUGUSTINE: We have word that the Solar Empire is closing in on Squall with an invasion force of their own. <Augustine Neutral1>
+AUGUSTINE: Sadly, it seems that your planetary blockade has yet to produce a decisive victory. <Augustine Neutral1>
+AUGUSTINE: How do you plan on explaining this failure to the Board? <Augustine Neutral1>
+PEARL: There won't be a failure to explain. The blockade will succeed. <Pearl Tired1>
+PEARL: No supplies or reinforcements have been able to breach our formation, and orbital bombardments around the clock have demoralized the populace. <Pearl Explaining1>
+PEARL: The Landians on the surface have no option but to surrender. <Pearl Neutral1>
+AUGUSTINE: For your sake, I should hope that your prediction is correct. <Augustine Neutral1>
+AUGUSTINE: Mr. Real would be quite disappointed if you tarnished his reputation while he was gone. <Augustine Neutral1>
+PEARL: ...... <Pearl Neutral1>
+PEARL: Let me remind you of something, Director, since you invoke my father's name. <Pearl Talking1>
+PEARL: The President chose me to represent Real Enterprises in his absence. <Pearl Tired1>
+PEARL: Shall I inform him that you doubt his judgement? <Pearl Neutral1>
+AUGUSTINE: ...Oh, no. There won't be any need for that. <Augustine Neutral1>
+AUGUSTINE: The President is a great man, after all. I respect him from the bottom of my heart. <Augustine Neutral1>
+AUGUSTINE: As a favor to your father, I'll tell the Board that Squall will be under Trade Union subjugation before the Solar Empire can get their hands on it. <Augustine Neutral1>
+AUGUSTINE: Just know that the Board doesn't take kindly to broken promises. <Augustine Neutral1>
+
+[The hologram fades.]
+
+PEARL: ...... <Pearl Neutral1>
+PEARL: Well! I'm glad we were able to reach an understanding. <Pearl Subtle4>
+AREA: ...That qualified as "reaching an understanding?" <Area Talking1>
+PEARL: More or less. <Pearl Subtle3>
+PEARL: You'll learn not to sweat the small stuff, Area. <Pearl Subtle1>
+
+[PEARL looks around.]
+
+PEARL: Adjutant. <Pearl Talking1>
+PEARL: Do you mind looking after the bridge for a little while? <Pearl Neutral1>
+ADJUTANT: Not at all, madam. <Adjutant4 Neutral1>
+PEARL: I'm going to go search for Ragna. <Pearl Neutral1>
+PEARL: If the Dominion fleet makes a move, alert me immediately. <Pearl Neutral1>
+
+[PEARL leaves]
+
+AREA: ...... <Area Neutral1>
+AREA: "Sweat the small stuff..." <Area Tired1>
+AREA: I've known her for so long now, but there is still so much I can't comprehend. <Area Neutral1>
+AREA: Humans are truly confusing sometimes. <Area Explaining1>
+
+[PEARL pops back inside briefly.]
+
+PEARL: Area, are you coming? <Pearl Talking1>
+AREA: I thought I would also be monitoring the bridge. <Area Neutral1>
+PEARL: Well, come along. I need to discuss something with you. <Pearl Explaining1>
+
+[AREA leaves along with PEARL.]
+
+3 Pearl tries to convince Ragna to cooperate
+
+[Shot of PEARL and AREA in a corridor of the Arpeggio.]
+
+AREA: Something seems to be troubling you, madam. <Area Neutral1>
+PEARL: It's Ragna. <Pearl Tired1>
+PEARL: I'm not sure how to get him to cooperate. <Pearl Neutral1>
+PEARL: I've already bet everything on this. It's imperative that he trusts me. <Pearl Exasp1>
+AREA: I see... <Area Neutral2>
+AREA: While my references of human behavior are limited, it seems reasonable that he would be distrustful of you. <Area Neutral1>
+AREA: According to an aggregate summary of all Trade Union logbooks... the man known as the Tyrant has raided over 500 cruisers, freighters, and vessels, along with an unknown number of planetary bodies. <Area Talking1>
+AREA: Out of these 500 ships, 92 percent of them belonged to the Trade Union. <Area Neutral1>
+AREA: If you ask me, that percentage is more than statistically significant. <Area Neutral2>
+PEARL: ...There are some things you just can't change, I suppose. <Pearl Neutral1>
+AREA: Really? <Area Talking1>
+AREA: As a robot, I was under the assumption that humans were the species most capable of change. <Area Neutral2>
+AREA: Perhaps I was mistaken. <Area Neutral1>
+PEARL: ...... <Pearl Tired1>
+PEARL: Thank you, Area. <Pearl Subtle4>
+AREA: For what? <Area Talking1>
+PEARL: It's nothing. Don't worry about it. <Pearl Subtle1>
+
+[Camera pans to RAGNA, leaning against a wall in the corridor with his arms crossed. There is a large window nearby, with a view of the planet below.]
+
+AREA: It appears that we've found him. <Area Smiling1>
+PEARL: Indeed. <Pearl Subtle4>
+PEARL: You can head back to the bridge now, Area. <Pearl Neutral1>
+PEARL: I'll take it from here. <Pearl Neutral1>
+
+[AREA leaves.]
+
+[PEARL walks over to RAGNA.]
+
+PEARL: You're not getting away from me that easily. <Pearl Neutral1>
+RAGNA: ...... <Ragna Tired1>
+PEARL: What are you doing down here, so far from the command bridge? <Pearl Talking1>
+RAGNA: Didn't you tell me to scram? <Ragna Confused1>
+RAGNA: Where I go is none of your business. <Ragna Explaining1>
+RAGNA: I'm not some dog on a leash. <Ragna Tired1>
+PEARL: ...I never said that. <Pearl Neutral1>
+RAGNA: Well, good for you, princess. <Ragna Neutral1>
+PEARL: I'm also not a princess, you know. <Pearl Angry2>
+RAGNA: Yeah, yeah. <Ragna Smug1>
+RAGNA: You're just the heiress of the largest company in the entire Trade Union. A corporate princess. <Ragna Explaining1>
+RAGNA: Which makes me, what - your royal lackey? <Ragna Neutral1>
+RAGNA: No thanks. <Ragna Talking5>
+
+[RAGNA stares out the window, looking at the stars.]
+
+RAGNA: One minute I'm out there, a free man. <Ragna Neutral1>
+RAGNA: Causing chaos. Living the life. <Ragna Smug1>
+RAGNA: Next thing you know, I end up in here somehow, slumming it up with the likes of you. <Ragna Annoyed2>
+RAGNA: Never thought there'd be a fate worse than execution. <Ragna Annoyed1>
+PEARL: ...... <Pearl Angry2>
+PEARL: Listen closely. <Pearl Angry2>
+PEARL: You've made your dislike towards me quite clear. More than clear, in fact. <Pearl Angry1>
+PEARL: Naturally, I'm rather ill-disposed towards you as well. <Pearl Tired1>
+PEARL: You've cost my family billions of credits in damage - and that's just a conservative estimate. <Pearl Annoyed1>
+RAGNA: Wait. Billions? <Ragna Talking3>
+RAGNA: That's way better than anything I could've hoped for. <Ragna Annoyed3>
+RAGNA: I mean, I was definitely gunning for seven or eight zeroes. But nine... <Ragna Explaining1>
+RAGNA: Damn. <Ragna Smug1>
+RAGNA: Guess I outdid myself. <Ragna Lazy2>
+PEARL: ...Gloat all you'd like. <Pearl Annoyed1>
+PEARL: As you can see, I have every conceivable reason to want you executed. <Pearl Explaining1>
+PEARL: Yet here you are. <Pearl Neutral1>
+PEARL: Have you ever bothered to ask yourself why? <Pearl Neutral1>
+RAGNA: Not really. <Ragna Confused1>
+RAGNA: I always assumed you were gonna turn me into your personal slave. Have me grovel every day without clothes. Lick your boots if they get dirty. <Ragna Talking2>
+RAGNA: That sort of stuff. <Ragna Distressed5>
+PEARL: ...I'm sorry. <Pearl Neutral1>
+PEARL: Groveling without clothes? <Pearl Exasp2>
+PEARL: Licking... boots? <Pearl Distressed2>
+PEARL: Just what kind of girl do you take me for? <Pearl Sad2>
+RAGNA: Don't nobles enjoy these kinds of things? <Ragna Talking3>
+PEARL: I... <Pearl Sweating1>
+PEARL: I'll get to the point, since waiting for you to arrive at an answer has done nothing but waste my time. <Pearl Explaining1>
+
+[PEARL steps forward towards RAGNA.]
+
+PEARL: Five years ago, near the moon of Ensys-IV. <Pearl Tired1>
+PEARL: The Trade Union sent several cruisers into deep space to capture you, but you routed them all despite being heavily outnumbered. <Pearl Neutral1>
+PEARL: How did you manage it? <Pearl Talking1>
+RAGNA: ...... <Ragna Annoyed1>
+PEARL: Fine. Why don't I ask you another question? <Pearl Tired1>
+
+[PEARL takes another step forward.]
+
+PEARL: The Manara Incident. Two years ago. You raided a heavily guarded freighter convoy on one of our safest known shipping routes. <Pearl Talking1>
+PEARL: Yet when reinforcements were dispatched, your fleet had all but vanished - despite not having a single Beacon Ship to your name. <Pearl Neutral1>
+PEARL: Care to explain that? <Pearl Subtle1>
+
+[PEARL turns around.]
+
+PEARL: You're an unusually gifted tactician, Ragna. The rest of the Board might not see it, but I do. <Pearl Explaining1>
+PEARL: Every time you've raided one of my ships, it's been my job to comb through the aftermath. <Pearl Annoyed1>
+PEARL: A talent like you only shows up once every two hundred years. <Pearl Neutral1>
+RAGNA: Don't tell me... <Ragna Confused1>
+RAGNA: You want me to help command your fleet? <Ragna Confused2>
+PEARL: Well, that took you long enough. <Pearl Tired1>
+RAGNA: You can't be serious. <Ragna Talking3>
+PEARL: Unfortunately, I am. <Pearl Sad2>
+
+[PEARL stares out the window at the Landian planet below.]
+
+PEARL: To end this war, we need an unconventional mind like yours. <Pearl Neutral1>
+PEARL: You'll help me command the fleet as I see fit. <Pearl Talking1>
+PEARL: In exchange, I'll use my leverage on the Board to keep you alive. <Pearl Tired1>
+PEARL: Even a cretin like you should understand that this arrangement is mutually beneficial for us. <Pearl Exasp1>
+RAGNA: "Understand?" <Ragna Annoyed1>
+RAGNA: Maybe you're the one who should do some understanding. <Ragna Explaining1>
+RAGNA: I'd sooner die than become a Trade Union sellout. <Ragna Neutral1>
+RAGNA: If you want my help, then do me a favor. <Ragna Tired1>
+RAGNA: Launch yourself and all of your cronies into the vacuum of space. <Ragna Talking4>
+RAGNA: Maybe then I'll consider your offer. <Ragna Annoyed3>
+PEARL: You're making this more difficult than it needs to be. <Pearl Tired1>
+PEARL: The other executives want you dead. I don't. <Pearl Angry1>
+RAGNA: So what? Did you expect me to be thankful? <Ragna Angry1>
+RAGNA: Put me back in that holding cell, Ms. Corporate Pawn. <Ragna Explaining1>
+RAGNA: Let me rot away in peace. <Ragna Tired1>
+
+[PEARL walks up to RAGNA.]
+
+PEARL: I can't believe it. <Pearl Angry2>
+PEARL: You... You... <Pearl Sweating1>
+PEARL: You have no regard for authority whatsoever! <Pearl Angry1>
+RAGNA: ...Why yes. I'm glad you noticed. <Ragna Smug1>
+RAGNA: I do consider myself somewhat of a ragtag rebel. What gave it away? <Ragna Smiling2>
+RAGNA: Was it the parrot on my shoulder? <Ragna Lazy2>
+PEARL: Why...! <Pearl Sweating1>
+
+[An ADJUTANT rushes in.]
+
+ADJUTANT: Madam. The Landian Navy is back. They're attacking from a different angle this time. <Adjutant2 Neutral1>
+RAGNA: Told you they'd return. <Ragna Smiling1>
+PEARL: Shut up. <Pearl Angry1>
+PEARL: I'm heading back. <Pearl Sweating2>
+
+[Pearl storms off, heading to the command room.]
+
+4 The Landians attack again
+
+[Shot of Landian ships engaging the blockade]
+[Interior shot of Landian flagship]
+
+CREW: The second attack group is approaching the blockade. <Knight Neutral1>
+BARON: ...... <Baron Neutral1>
+
+[Cut to interior shot of blockade runner. The baron is speaking through hologram]
+
+BARON: Press the attack. You are to proceed as planned. <Baron Neutral1>
+BARON: For the Dominion! <Baron Neutral1>
+
+[Hologram disappears]
+
+CREW: Everyone! At action stations! <Knight Neutral1>
+
+[Short shot of the second attack group]
+[interior of Landian Cruiser]
+
+CREW: Clear a path! <Knight Neutral1>
+CREW: Forward cannons, fire! <Knight Neutral1>
+
+[Landian ships damage a Union ship]
+[Command room shot of the Arpeggio. From the window, a nearby ship takes a hit as Pearl enters the room.]
+
+AREA: How did the negotiations go? <Area Neutral1>
+PEARL: Terribly. <Pearl Annoyed1>
+PEARL: My time is wasted on someone so sorely lacking in reason. He's made a butchery of all my efforts. <Pearl Angry1>
+PEARL: What's the status of the battle? <Pearl Sweating2>
+AREA: The Landians are trying to break through our lines again. They've sent another convoy our way. <Area Talking2>
+PEARL: It's the same as before. <Pearl Neutral1>
+PEARL: Target their transports. We can't let them get through. <Pearl Talking1>
+PEARL: ...... <Pearl Neutral1>
+PEARL: Perhaps this was all a mistake... <Pearl Sad2>
+
+5 Ragna discovers the ploy
+
+[Cut to RAGNA, still leaning against the wall of the corridor. A lone ADJUTANT is mopping the floor.]
+
+RAGNA: Ugh... I'm bored out of my mind. <Ragna Lazy1>
+ADJUTANT: ...... <Adjutant2 Neutral1>
+RAGNA: Hey. Tin can. <Ragna Neutral1>
+ADJUTANT: ...... <Adjutant2 Neutral1>
+RAGNA: What, can you only mop floors? <Ragna Talking2>
+ADJUTANT: ...... <Adjutant2 Neutral1>
+RAGNA: ...I'll take that as a yes. <Ragna Confused2>
+
+[RAGNA looks out the window into space. Trade Union and Dominion ships are trading blows. The camera focuses on the planet below.]
+
+RAGNA: Squall, huh. <Ragna Neutral1>
+RAGNA: Sure looks different. <Ragna Neutral1>
+ADJUTANT: ...... <Adjutant2 Neutral1>
+RAGNA: You can usually see miles and miles of factories, even from space. <Ragna Tired1>
+RAGNA: But this freak of a storm is covering up half the planet. <Ragna Talking6>
+RAGNA: Wonder what's going on down there... <Ragna Neutral1>
+RAGNA: ...... <Ragna Annoyed1>
+RAGNA: Wait... <Ragna Talking3>
+
+6 The second attack continues
+
+[Cut to shot of Trade Union cannons]
+
+ADJUTANT: Load and fire all batteries. <Adjutant4 Neutral1>
+ADJUTANT: Beep. Boop. Beep. Calculating trajectory... <Adjutant3 Neutral1>
+
+[Cannons fire]
+[Shot of Landian transport going up in flames]
+[Interior shot of a Landian cruiser]
+
+CREW: The transports are taking critical damage! <LandianM Distressed1>
+CREW: What a mess... <Knight Neutral1>
+CREW: Move up to intercept their fire. <Knight Neutral1>
+
+[Landian cruiser destroys a nearby Trade Union cruiser, but another cruiser destroys the last transport]
+[Shot of Landian flagship interior. Explosion in the distance]
+
+CREW: We've lost contact with group B's transports. <Knight Neutral1>
+BARON: Interesting... <Baron Neutral1>
+BARON: Pull back the escort vessels. Tell the third attack group to get into position. <Baron Neutral1>
+
+[beat]
+
+BARON: What is the status of the Imperial fleet? <Baron Neutral1>
+CREW: Our scouts report that they are advancing on our position. <Knight Neutral1>
+CREW: We still have some time before they reach us. <Knight Neutral1>
+BARON: Hopefully we'll be long gone by then... <Baron Neutral1>
+
+[Shot of Landian ships retreating under fire]
+[Command room shot of the Arpeggio.]
+
+ADJUTANT: The enemy is retreating, madam. <Adjutant4 Neutral1>
+ADJUTANT: All cargo-carrying vessels have been completely destroyed. <Adjutant4 Smiling1>
+
+[Shot of outside the command bridge. The remains of supplies can be seen floating around among the Landian wreckage.]
+
+PEARL: What a needless waste of supplies and lives. <Pearl Sad2>
+PEARL: Why would they attempt the same maneuver twice? <Pearl Neutral1>
+PEARL: It's as if they're just throwing their transports at us without any rhyme or reason. <Pearl Sad2>
+
+[Shot of the command bridge]
+
+PEARL: Area. Analysis, please. <Pearl Tired1>
+AREA: I cross-referenced the enemy's attack sequence against one million entries in my database, but no match was found. <Area Talking1>
+AREA: Do you suspect that they are employing some kind of strategy? <Area Neutral1>
+PEARL: ...I don't know. <Pearl Neutral1>
+PEARL: But whatever they're doing... it's certainly not random. <Pearl Talking1>
+PEARL: If the Landians indeed have a strategy up their sleeve, then it's something the Trade Union has never seen before. <Pearl Sweating1>
+AREA: Have you consulted Ragna about this? <Area Neutral1>
+AREA: It was in anticipation of this very situation that you went through all the trouble of bringing him on board. <Area Explaining1>
+PEARL: Like I said, he's being uncooperative. <Pearl Angry2>
+AREA: Humans can be very difficult. <Area Tired1>
+AREA: Maybe I'm stating the obvious, but it might be worth it to try and talk with him again. <Area Neutral1>
+PEARL: No. <Pearl Annoyed1>
+PEARL: I doubt I'll be able to convince him any more than I already have. <Pearl Explaining1>
+PEARL: Have the adjutants take over for me. I'm going to go clear my head. <Pearl Tired1>
+
+[PEARL leaves the bridge.]
+
+7 Ragna tells Pearl to let one through
+
+[PEARL bumps into RAGNA, who has been standing outside the door to the command bridge.]
+
+PEARL: Ouch...! <Pearl Sweating1>
+RAGNA: Gah... <Ragna Distressed3>
+PEARL: ...... <Pearl Sad2>
+PEARL: Ragna? <Pearl Neutral1>
+RAGNA: ...... <Ragna Distressed5>
+PEARL: How long have you been standing there? <Pearl Talking1>
+RAGNA: Tch. I was just passing by. <Ragna Tired2>
+RAGNA: This whole ship gives me the creeps. <Ragna Annoyed1>
+RAGNA: Robots and nothing else, no matter where I go. <Ragna Confused1>
+RAGNA: That's the Trade Union for you. <Ragna Explaining1>
+PEARL: You should try to get used to it. <Pearl Neutral1>
+PEARL: The Arpeggio is manned entirely by its adjutants. <Pearl Explaining1>
+PEARL: Right now, we're the only two humans aboard this ship. <Pearl Neutral1>
+RAGNA: ...You've got to be kidding me. <Ragna Lazy1>
+PEARL: It's not like I'm particularly overjoyed about sharing living quarters with a scoundrel. <Pearl Talking1>
+PEARL: Learn some gratitude. Perhaps we can just barely coexist. <Pearl Angry2>
+RAGNA: That's high talk from someone who's about to lose to the Landians. <Ragna Talking6>
+PEARL: So you were eavesdropping. <Pearl Neutral1>
+RAGNA: Nope. Just passing by, remember? <Ragna Explaining1>
+RAGNA: But from what I heard, it sounds like you're in a real bind. <Ragna Smug1>
+PEARL: Maybe I am. <Pearl Sweating2>
+PEARL: Maybe I'm not. <Pearl Neutral1>
+PEARL: What's it to you? <Pearl Angry1>
+RAGNA: ...Nothing at all. <Ragna Tired1>
+PEARL: That's what I thought. <Pearl Neutral1>
+PEARL: Now, If you're done mocking me, I have somewhere I need to be. <Pearl Explaining1>
+
+[PEARL walks past RAGNA into the corridor. But right as she's about to leave, RAGNA speaks up.]
+
+RAGNA: You should let one of them through. <Ragna Explaining1>
+
+[PEARL stops in her tracks.]
+
+PEARL: What? <Pearl Neutral1>
+RAGNA: The transports. <Ragna Neutral1>
+RAGNA: Let one of them past the firing line. <Ragna Talking1>
+PEARL: And why would I do that? <Pearl Sad1>
+RAGNA: Dunno. I just think it could be interesting. <Ragna Smug1>
+
+[PEARL turns around to face RAGNA.]
+
+PEARL: Now you're really mocking me. <Pearl Angry1>
+PEARL: Is this all some kind of joke to you? <Pearl Angry2>
+PEARL: I may lack your wealth of ill-gotten experience, but I do understand how a blockade works. <Pearl Talking2>
+RAGNA: I'm sure you do, your worship. <Ragna Angry2>
+RAGNA: Would you like me to prostrate myself before your supreme intelligence? <Ragna Talking2>
+PEARL: Ugh... <Pearl Sweating1>
+RAGNA: ...You know what? Forget what I said. <Ragna Explaining1>
+RAGNA: Take it as the ramblings of a lowlife. <Ragna Tired1>
+
+[RAGNA walks past PEARL and exits the screen. PEARL turns around and watches as he leaves, standing still.]
+
+PEARL: "Let one of them through." <Pearl Neutral1>
+PEARL: I can't believe it. The sheer nerve of him... <Pearl Angry1>
+PEARL: Was he even being serious? <Pearl Annoyed1>
+PEARL: ...... <Pearl Sad1>
+PEARL: There's no way. <Pearl Tired1>
+
+[AREA enters from the direction of the bridge.]
+
+AREA: Madam. <Area Neutral1>
+PEARL: Is something the matter? <Pearl Neutral1>
+AREA: Another communications request just came in from the Trade Union. <Area Explaining1>
+AREA: It's waiting for you on the bridge. <Area Tired1>
+PEARL: The Board again... <Pearl Neutral1>
+PEARL: Patch them through. I'll be there in just a moment. <Pearl Explaining1>
+
+[Beat]
+
+PEARL: ...So much for clearing my head. <Pearl Tired1>
+PEARL: In fact, I think I have a headache now. <Pearl Sad2>
+AREA: Should I take you to the medical bay? <Area Neutral1>
+PEARL: ...... <Pearl Sad2>
+PEARL: That won't be necessary. <Pearl Sad3>
+
+8 Third Landian attack begins
+
+[The third attack group sets out]
+[interior of Landian flagship]
+
+CREW: Attack group C is at the ready, my lord. <Knight Neutral1>
+BARON: Give the word. We're running out of time here. <Baron Neutral1>
+CREW: Should we just commit to a frontal assault, perhaps? <Knight Neutral1>
+BARON: ...... <Baron Neutral1>
+BARON: Just stick to the plan. <Baron Neutral1>
+
+[Landian ships approach the blockade, cannons begin to fire]
+[Shot of the blockade firing back. Slow zoom on Arpeggio]
+[Interior of the Arpeggio, command bridge. PEARL and AREA enter the room]
+
+AREA: The Landian fleet is sending another convoy. <Area Neutral2>
+PEARL: It's that same maneuver, repeated a third time... <Pearl Neutral1>
+PEARL: I was right. We're definitely not dealing with a mere coincidence. <Pearl Sweating2>
+PEARL: Run another analysis using the new information. <Pearl Talking1>
+AREA: I already did. <Area Neutral2>
+AREA: There's still not a single match in my tactical database. <Area Tired1>
+PEARL: ...... <Pearl Sad2>
+AREA: Would you like me to pour you some tea? <Area Talking1>
+PEARL: Tea? At a time like this? <Pearl Sad1>
+AREA: I thought it might calm your nerves. <Area Smiling1>
+PEARL: ...Thank you, Area. You can leave it for me at my seat. <Pearl Subtle3>
+PEARL: I'll see the Director now. <Pearl Neutral1>
+
+[AREA pours tea.]
+
+9 The Board calls in during the attack
+
+[Hologram of AUGUSTINE shows up.]
+
+AUGUSTINE: What is the meaning of this, Ms. Real? <Augustine Neutral1>
+AUGUSTINE: The Board is unanimous. It's taking far too long for our tastes. <Augustine Neutral1>
+AUGUSTINE: Solar Empire ships are rapidly closing in. <Augustine Neutral1>
+AUGUSTINE: If you don't claim the planet in a timely fashion, then our rivals will. <Augustine Neutral1>
+PEARL: I assure you, Director. These Landian blockade runners are behaving erratically. They're clearly desperate. <Pearl Explaining1>
+PEARL: Give me a little more time to repel them, and the Trade Union will have its victory. <Pearl Neutral1>
+AUGUSTINE: Alas, your assurance means little in the face of reality. <Augustine Neutral1>
+AUGUSTINE: Step down now and I'll consider putting in a word for you. Your disgrace will become more bearable that way. <Augustine Neutral1>
+
+[PEARL turns around. Her back faces the hologram.]
+
+PEARL: A waning superstorm is covering the planet's atmosphere as we speak. It's interfering with our ability to detect surface activity. <Pearl Tired1>
+PEARL: If the Board finds that the Landians have not yet surrendered by the time the storm lifts, then I'll submit myself to their mercy. <Pearl Neutral1>
+PEARL: Until then, you will refrain from contacting me until the battle is over. <Pearl Talking1>
+
+[PEARL turns back towards the hologram.]
+
+AUGUSTINE: Hmm... I like these terms. <Augustine Neutral1>
+AUGUSTINE: I hope you won't mind being held to them. <Augustine Neutral1>
+PEARL: Not at all. <Pearl Tired1>
+PEARL: As long as we're in agreement, I'll be leaving now. I still have a fleet to command. <Pearl Talking1>
+AUGUSTINE: Of course. <Augustine Neutral1>
+
+[PEARL turns around and takes a few steps before being interrupted by AUGUSTINE.]
+
+AUGUSTINE: That tea of yours is getting cold, by the way. <Augustine Neutral1>
+AUGUSTINE: You should drink it while you still can. <Augustine Neutral1>
+PEARL: ...... <Pearl Neutral1>
+
+[The hologram fades.]
+
+AREA: Another one of those "mutual understandings?" <Area Talking1>
+PEARL: ...Not exactly. <Pearl Exasp3>
+PEARL: But no matter. I don't have the luxury of worrying about the Board right now. <Pearl Explaining1>
+
+[PEARL turns to face AREA.]
+
+PEARL: Tell our ships to proceed as usual. <Pearl Neutral1>
+PEARL: Don't let the transports get past our lines. <Pearl Talking1>
+
+[PEARL walks forward to face the front of the bridge, overlooking space.]
+
+10 The Landians launch a 2nd convoy
+
+[The Landians launch a second convoy]
+[Short shot of the battle]
+[Interior shot of Landian flagship]
+
+CREW: My lord, recon reports that the Imperial fleet is closing the distance. <Knight Neutral1>
+CREW: We don't have much time left. <Knight Neutral1>
+BARON: ...... <Baron Neutral1>
+BARON: I can't fail here. <Baron Neutral1>
+BARON: Send a portion of the fleet to hold off their ships. That'll give us some room to breathe. <Baron Neutral1>
+BARON: Is attack group D in position? Have them rush the blockade from a different position. <Baron Neutral1>
+CREW: But attack group C hasn't finished its attack run yet... <Knight Neutral1>
+BARON: Shut up and relay my orders. <Baron Neutral1>
+CREW: Relaying... <Knight Neutral1>
+
+11 Pearl discovers the ploy
+
+[Pearl discovers that the transports are full of fake cargo]
+
+[Shot of attack group D leaving the fleet]
+
+[Interior shot of the Arpeggio]
+
+ADJUTANT: Scanners indicate that the Dominion fleet has sent another convoy in our direction. <Adjutant3 Neutral1>
+AREA: Another one? <Area Neutral2>
+
+[Shot of attack group D changing position. Pan to attack group C engaging the blockade and the Arpeggio]
+
+PEARL: It's like they're carpet-bombing us, except with transports instead of bombs. <Pearl Distressed4>
+PEARL: But for what purpose? <Pearl Sweating2>
+PEARL: All those supplies are just going to waste. <Pearl Sad2>
+PEARL: ...... <Pearl Tired1>
+PEARL: Wait. <Pearl Neutral1>
+PEARL: The supplies... <Pearl Distressed3>
+PEARL: Area, give me a detailed visual on the debris from the destroyed transports. <Pearl Angry1>
+AREA: Right away. <Area Neutral2>
+
+[Shot of supplies and debris in space, next to a wrecked transport.]
+
+PEARL: ...... <Pearl Neutral1>
+PEARL: As I thought. <Pearl Talking1>
+PEARL: The cargo is floating all over the place. <Pearl Neutral1>
+
+[Return to shot of command bridge.]
+
+PEARL: Ragna might have been serious after all. <Pearl Sweating2>
+AREA: Did he say something to you while you were outside? <Area Talking1>
+PEARL: He did just that. <Pearl Subtle1>
+PEARL: At first, I thought he was trying to cause trouble as usual. <Pearl Subtle4>
+PEARL: But this changes everything. <Pearl Talking1>
+
+[PEARL walks over to an adjutant.]
+
+PEARL: Let one of the transports pass. <Pearl Neutral1>
+AREA: Madam? <Area Talking2>
+PEARL: You heard me. <Pearl Explaining1>
+PEARL: Tell the gunners to misfire on purpose. <Pearl Neutral1>
+PEARL: I want you to make it look like a transport was able to break through the blockade. <Pearl Talking1>
+AREA: If even a single transport makes it through, it is highly probable that the Landians will delay their surrender. <Area Neutral2>
+PEARL: ...I know. <Pearl Sweating2>
+PEARL: From the very start, this was all a big gamble on my part. <Pearl Neutral1>
+PEARL: I'm going to see it through until the end. <Pearl Tired1>
+PEARL: Let one of the transports pass. <Pearl Angry1>
+AREA: As you wish. <Area Neutral1>
+
+12 A transport makes it through
+
+[Shot of Trade Union cruiser guns]
+
+ADJUTANT: Beep. Boop. Beep. Our orders are to miss. <Adjutant4 Neutral1>
+ADJUTANT: Baffling. <Adjutant3 Smiling1>
+ADJUTANT: What is wrong, human? Are your circuits malfunctioning? Do you require repairs? <Adjutant4 Smiling1>
+ADJUTANT: Hee. Hee. Hee. <Adjutant3 Smiling1>
+ADJUTANT: Ha. Ha. Ha. <Adjutant4 Smiling1>
+
+[Beat]
+
+ADJUTANT: Firing! <Adjutant3 Neutral1>
+
+[Cannons fire]
+
+[Scene where a transport makes it through]
+
+13 Pearl chooses to trust Ragna
+
+AREA: Apologies madam, but I'm still struggling to comprehend the logic behind that order. <Area Talking1>
+AREA: Perhaps there are some variables that my database failed to account for...? <Area Neutral1>
+PEARL: It's quite easy, actually. <Pearl Neutral1>
+PEARL: Look at the debris from the transports we've destroyed so far. <Pearl Subtle1>
+
+[Shot of debris and supplies, floating in space among wrecked Landian transport.]
+
+AREA: Upon close examination, it appears to be what's left of the supplies that the Landians were hoping to send to the surface. <Area Talking1>
+PEARL: Correct. <Pearl Neutral1>
+
+[Switch back to shot of command bridge.]
+
+PEARL: But taking the nature of the debris into account, doesn't something about it strike you as odd? <Pearl Talking1>
+AREA: I'm not following, Ms. Real. <Area Neutral2>
+PEARL: To put it simply, the cargo debris shouldn't be there. <Pearl Neutral1>
+PEARL: The fact that there's so much of it means that the containers were never properly secured. <Pearl Talking1>
+PEARL: I've personally inspected important shipments for Real Enterprises many times in the past. <Pearl Subtle4>
+PEARL: Whenever merchants are transporting heavy cargo, it's common practice for them to weld the cargo to the floor of the freighter itself. <Pearl Explaining1>
+PEARL: That way, when the freighter enters a planet's atmosphere, or if it crashes, the cargo won't shift around and incur damage. <Pearl Neutral1>
+AREA: So why were the Landian supplies not properly secured? <Area Talking1>
+PEARL: Exactly. Why not? <Pearl Tired1>
+PEARL: Any ship that somehow made it through the blockade would be heavily damaged by our cannons. Keep in mind that there's also a storm raging in the planet's atmosphere. <Pearl Talking2>
+PEARL: If you crash-land a transport at high speed in the middle of a storm and the cargo isn't properly secured, then the supplies would be destroyed upon reaching the surface. <Pearl Tired1>
+PEARL: All the more reason to take necessary precautions with the supply containers. <Pearl Neutral1>
+AREA: That appears to be an oversight. Perhaps we could attribute this to human error? <Area Talking1>
+AREA: It is possible that the Landians simply forgot to secure their cargo in the standard way. <Area Neutral1>
+PEARL: No. It's too large of an oversight to overlook. <Pearl Sad2>
+PEARL: The Dominion knew about the storm well ahead of time. <Pearl Neutral1>
+PEARL: Yet they still chose this window to try and break the blockade, and they didn't bother to protect their all-important supplies. <Pearl Explaining1>
+PEARL: Either the commander we're dealing with is a complete buffoon... <Pearl Tired1>
+
+[RAGNA enters the command bridge and stands in place after he enters.]
+
+RAGNA: ...Or getting supplies to the surface was never their goal to begin with. <Ragna Talking1>
+PEARL: Ragna... <Pearl Neutral1>
+
+[RAGNA walks over to PEARL and AREA.]
+
+AREA: You were the one who told Ms. Real to let a transport pass through. <Area Smiling1>
+RAGNA: Yeah. <Ragna Smug1>
+RAGNA: And if she'd just listened to me earlier, this battle would be long over by now. <Ragna Talking6>
+PEARL: Hmph. Only a fool would blindly follow instructions. <Pearl Annoyed1>
+PEARL: I merely took your strange suggestion as an invitation to seek out the truth for myself. <Pearl Explaining1>
+PEARL: In any case, it's clear that the Landians aren't sending in transports with the hopes that they'll bolster the surface population. <Pearl Neutral1>
+PEARL: The supply crates might even be empty for all we know. <Pearl Talking1>
+PEARL: But then why send transports at all? <Pearl Tired1>
+RAGNA: That's easy. <Ragna Neutral1>
+RAGNA: They're obviously using them as test runs to probe for a hole in your defenses. <Ragna Explaining1>
+PEARL: A hole? <Pearl Neutral1>
+PEARL: How preposterous. <Pearl Angry2>
+PEARL: Our tactical AI should have positioned our ships in a way that avoids such weaknesses. <Pearl Talking1>
+RAGNA: Heh. <Ragna Smug1>
+
+[RAGNA walks to the front of the bridge.]
+
+RAGNA: I never thought I'd be doing this, but I guess I'll let you in on a secret. <Ragna Neutral1>
+RAGNA: There's a flaw with the algorithm that the Trade Union uses to calculate ship formations. <Ragna Talking5>
+PEARL: What?! <Pearl Distressed4>
+PEARL: How do you even know about such a proprietary algorithm? <Pearl Angry1>
+RAGNA: Well, I'm a pirate - or rather, I was a pirate. <Ragna Explaining1>
+RAGNA: Knowing things like this is part of the biz. <Ragna Smiling1>
+RAGNA: Besides... <Ragna Talking6>
+
+[RAGNA turns around to face PEARL and AREA.]
+
+RAGNA: Let's just say that one of my old friends was the one who put it there in the first place. <Ragna Lazy2>
+PEARL: ...I can't believe I'm speaking with you right now. <Pearl Exasp2>
+RAGNA: Hey. The feeling's mutual. <Ragna Lazy1>
+
+[AREA walks to the front of the bridge.]
+
+AREA: So to summarize, there's a carefully hidden gap somewhere in the blockade that the enemy is searching for. <Area Explaining1>
+RAGNA: Pretty much. <Ragna Neutral1>
+RAGNA: Info has a funny way of spreading. Someone probably sold the secret to the Landians. <Ragna Talking1>
+RAGNA: Since the princess actually listened and let one of their transports get through, the Landians will think that they've found a weak spot... <Ragna Tired1>
+RAGNA: ...But imagine what'll happen when they realize it's as strong as any other point in the formation. <Ragna Smiling1>
+RAGNA: Man, I can't wait to see the looks on their faces. <Ragna Smug1>
+
+14 The Landians take the bait
+
+[Short shot of the Landian flagship]
+[Flagship interior shot]
+
+CREW: My lord, attack group C has broken through the blockade. <Knight Neutral1>
+BARON: Give the signal to act. Quickly! <Baron Neutral1>
+BARON: In the meantime, move the fleet forward and commit to a full frontal assault. We need to draw fire for our allies. <Baron Neutral1>
+CREW: As you say. <Knight Neutral1>
+
+[Shot of Arpeggio command bridge.]
+
+AREA: Madam, the Landian fleet is changing their pattern of attack. They are throwing everything they have at us now. <Area Talking2>
+AREA: I predict casualties will be high on both sides. <Area Tired1>
+PEARL: ...They've taken the bait. <Pearl Subtle2>
+PEARL: They must be trying to push through all at once. <Pearl Neutral1>
+
+[From the window, a nearby Trade Union cruiser goes up in flames]
+
+PEARL: Reinforce our defenses. We have to stop them! <Pearl Angry1>
+RAGNA: No, we don't. <Ragna Tired1>
+RAGNA: Let them attack. They aren't trying to run the blockade from the outside. <Ragna Talking1>
+PEARL: ...What? <Pearl Neutral1>
+RAGNA: Do I really have to spell it out? <Ragna Explaining1>
+
+[RAGNA walks forward. The camera pans down to a close-up shot of the planet below.]
+
+RAGNA: Instead of looking upward all the time, maybe try paying attention to what's beneath you. <Ragna Talking1>
+
+[Scene of Landian convoy leaving the surface.]
+
+AREA: I've detected something leaving the atmosphere. <Area Neutral2>
+PEARL: What... What in the world is that...? <Pearl Distressed4>
+AREA: It seems the Landians have launched a freighter with a cruiser escort. <Area Talking2>
+
+[Cut back to command bridge.]
+
+RAGNA: Get it now? <Ragna Tired1>
+RAGNA: This was their real objective all along. <Ragna Smiling1>
+RAGNA: Not breaking through from the outside... but escaping from the inside. <Ragna Neutral1>
+
+[RAGNA turns to face AREA.]
+
+RAGNA: Turn that freighter into scrap metal. <Ragna Talking1>
+PEARL: Hold on! What if civilians are on board? <Pearl Angry1>
+RAGNA: We're talking about the Dominion, princess. <Ragna Annoyed1>
+RAGNA: They gave up on this planet long ago. <Ragna Talking4>
+PEARL: How can you be so sure? <Pearl Angry2>
+PEARL: I refuse to drag innocent people into this mess. <Pearl Distressed3>
+
+[PEARL walks in between RAGNA and AREA.]
+
+RAGNA: Get off your high horse. <Ragna Tired2>
+RAGNA: Squall is a manufacturing hub, remember? <Ragna Annoyed2>
+RAGNA: If the Landians really cared about their citizens, they would've done everything in their power to send supplies through. <Ragna Explaining1>
+RAGNA: Instead, they did the opposite. <Ragna Neutral1>
+RAGNA: Whatever they're smuggling out right now is the only thing they think is worth saving on the entire planet. Something worth sacrificing a bunch of transports for. Something that'll help them stagger out this war. <Ragna Talking2>
+RAGNA: I'll bet you money that there's not a single civilian inside that ship. <Ragna Angry1>
+PEARL: ...... <Pearl Sweating2>
+AREA: Madam? What are your orders? <Area Neutral2>
+
+[PEARL turns to face AREA.]
+
+PEARL: Do as he says. <Pearl Sweating2>
+PEARL: ...Shoot down the freighter. <Pearl Angry1>
+AREA: Very well. <Area Neutral1>
+
+[PEARL turns around and walks by RAGNA.]
+
+PEARL: You'd better be right about this. <Pearl Annoyed1>
+RAGNA: Like I've been wrong about anything so far. <Ragna Talking1>
+
+[Scene of Union ships firing]
+[freighter convoy explodes]
+
+15 The Imperials arrive
+
+[Landian fleet]
+[flagship interior]
+
+CREW: Our surface convoy was torn to shreds, sir. <Knight Neutral1>
+BARON: Impossible...  <Baron Neutral1>
+CREW: Perhaps they discovered our plan? <Knight Neutral1>
+BARON: ...... <Baron Neutral1>
+BARON: Then we lost the prototype... <Baron Neutral1>
+BARON: High command will not be pleased with this... <Baron Neutral1>
+CREW: We can still recover the wreckage if we make a mad dash for it. <Knight Neutral1>
+BARON: We may have to. I don't think there's any other way. <Baron Neutral1>
+
+[Crew enters]
+
+CREW: My lord, it's the Solar Empire! They're... they're here! <LandianM Distressed1>
+BARON: Urk...! <Baron Neutral1>
+
+[Shot of an Imperial beacon, fleet warps in and engages the Landian fleet]
+[Interior of Imperial flagship]
+
+SOLDIER: Captain, it looks like the Trade Union got here first. What are your orders? <Default>
+CAPTAIN: We were too late. Those thieving profiteers... <Default>
+CAPTAIN: Take care of the Landian devils. We can do that much at least. <Default>
+SOLDIER: Aye, sir! <Default>
+
+[The Imperial ships destroy a few Landian ships]
+[Interior of Landian flagship]
+
+BARON: Damned imp scum... <Baron Neutral1>
+BARON: We won't last long against both fleets. <Baron Neutral1>
+BARON: Get us out of here! <Baron Neutral1>
+CREW: Are... are you certain? We don't have the prototype with us... <Knight Neutral1>
+
+[An explosion rocks the ship]
+
+BARON: Make the jump! <Baron Neutral1>
+
+[Landian ships escape as the Imperial fleet gives chase]
+[Arpeggio's interior]
+
+16 The Planet Surrenders
+
+RAGNA: There they go, running home with their tails between their legs. <Ragna Neutral1>
+RAGNA: The Dominion doesn't even know what hit 'em. <Ragna Smug1>
+PEARL: You seem to be awfully excited about this. <Pearl Subtle1>
+RAGNA: Don't get the wrong idea. <Ragna Annoyed1>
+RAGNA: A win's just a win in my book. Even if it's for you Trade Union snobs. <Ragna Explaining1>
+
+[PEARL looks out at the planet below.]
+
+PEARL: ...The storm is finally clearing. <Pearl Neutral1>
+
+[ADJUTANT walks over to PEARL.]
+
+ADJUTANT: Madam. Communications with the surface have been restored. <Adjutant4 Neutral1>
+ADJUTANT: Squall has surrendered. <Adjutant4 Smiling1>
+ADJUTANT: We have total control over the planet now. <Adjutant4 Smiling1>
+ADJUTANT: Should I inform the Board? <Adjutant4 Neutral1>
+PEARL: Hmm. <Pearl Tired1>
+PEARL: I think I'll do it myself. <Pearl Subtle4>
+PEARL: Open up a transmission with Director Augustine for me. <Pearl Explaining1>
+
+[RAGNA starts heading out. PEARL calls out to him before he can make it out the door.]
+
+PEARL: Where are you going? <Pearl Neutral1>
+RAGNA: To get a bite to eat. I'm starving. <Ragna Tired1>
+RAGNA: You wouldn't want me interrupting your precious meeting anyways. <Ragna Talking6>
+PEARL: ...So long as we're on the same page. <Pearl Neutral1>
+
+[RAGNA leaves.]
+
+[AUGUSTINE shows up via hologram.]
+
+AUGUSTINE: Ms. Real. Come to plead for mercy? <Augustine Neutral1>
+PEARL: Not quite. <Pearl Neutral1>
+PEARL: You'll be pleased to know that my blockade has succeeded. The Landians on the surface have surrendered. <Pearl Subtle1>
+AUGUSTINE: ...... <Augustine Neutral1>
+AUGUSTINE: Really, now. <Augustine Neutral1>
+PEARL: Is something the matter, Director? <Pearl Neutral1>
+PEARL: I expected you to be happier about a Trade Union victory. <Pearl Talking1>
+AUGUSTINE: ...Oh, rest assured. I'm simply overjoyed. <Augustine Neutral1>
+AUGUSTINE: Keep playing house, little girl. <Augustine Neutral1>
+AUGUSTINE: Your authority lives on borrowed time. <Augustine Neutral1>
+
+[AUGUSTINE's hologram disappears.]
+
+AREA: Congratulations on the victory, madam. <Area Smug1>
+PEARL: Thank you. <Pearl Subtle3>
+PEARL: But it's not entirely my own... <Pearl Subtle4>
+PEARL: ...... <Pearl Neutral1>
+PEARL: You know, I'm feeling rather hungry myself. <Pearl Explaining1>
+PEARL: I'm off to the canteen. <Pearl Subtle1>
+
+[PEARL lingers for a second before leaving the bridge.]
+
+17 Conclusion
+
+[Shot of canteen. RAGNA is already sitting at a table, alone.]
+
+RAGNA: Just my luck. <Ragna Talking5>
+RAGNA: Even the food here's terrible... <Ragna Tired2>
+
+[PEARL walks into the canteen.]
+
+RAGNA: You again...? <Ragna Neutral1>
+RAGNA: Give me a break. <Ragna Explaining1>
+PEARL: Hey. I need to eat too. <Pearl Talking2>
+
+[PEARL walks over to the counter. An ADJUTANT chef is standing behind the counter.]
+
+PEARL: I'll have the special, please. <Pearl Smiling1>
+ADJUTANT: Beep. Boop. <Adjutant3 Neutral1>
+ADJUTANT: One special, coming right up. <Adjutant3 Smiling1>
+
+[ADJUTANT hands PEARL some food.]
+
+[PEARL walks over carrying the food to RAGNA's table.]
+
+PEARL: Mind if I join you? <Pearl Explaining1>
+RAGNA: As if I have a choice. <Ragna Neutral1>
+
+[PEARL sits down across from RAGNA.]
+
+RAGNA: Wait. You're eating this slop too? <Ragna Distressed1>
+PEARL: These are Trade Union field rations, not slop. And don't be rude. <Pearl Talking1>
+PEARL: The chef is standing right there! <Pearl Angry2>
+RAGNA: ...She's a robot. <Ragna Lazy1>
+RAGNA: Don't you have special food or something that's only served to you? Like, biscuits to go along with your tea? <Ragna Talking5>
+PEARL: What? Why would I have that? <Pearl Neutral1>
+PEARL: The Trade Union doesn't issue anything of the sort. <Pearl Talking1>
+PEARL: Besides, biscuits are dry. Gross. <Pearl Distressed1>
+RAGNA: ...Nevermind. <Ragna Distressed6>
+
+[Pause as they eat.]
+
+PEARL: If tea is what you want, you're free to join me sometime. <Pearl Tired1>
+PEARL: There's more than enough on board. <Pearl Neutral1>
+RAGNA: Really? <Ragna Confused1>
+PEARL: Of course. <Pearl Subtle4>
+RAGNA: I'll pass. <Ragna Talking6>
+PEARL: ...... <Pearl Annoyed1>
+PEARL: I-I wasn't seriously inviting you, you know. <Pearl Explaining1>
+RAGNA: Sure you weren't. <Ragna Smiling1>
+RAGNA: By the way, no need to thank me. <Ragna Smug1>
+PEARL: For the battle? <Pearl Neutral1>
+PEARL: I wasn't planning on doing that, either. <Pearl Angry2>
+
+[Pause as they eat.]
+
+PEARL: ...Ahem. <Pearl Explaining1>
+PEARL: How did you deduce that the attack was coming from below? <Pearl Neutral1>
+RAGNA: I thought you weren't going to thank me. <Ragna Smiling1>
+PEARL: I'm not. I'm just asking a question. <Pearl Talking2>
+RAGNA: Whatever you say. <Ragna Smug1>
+RAGNA: ...... <Ragna Tired1>
+RAGNA: There's a reason why the Landians chose to attack during a storm. <Ragna Talking6>
+RAGNA: It screws with your fleet's ability to monitor the surface. <Ragna Neutral1>
+RAGNA: But the storm's actually a double-edged sword. <Ragna Talking1>
+RAGNA: The Landians below had no way of knowing what the blockade formation looked like until they entered low-orbit. <Ragna Tired1>
+RAGNA: By that time, they'd already walked into my trap. <Ragna Smug1>
+PEARL: I see... <Pearl Tired1>
+PEARL: ...... <Pearl Neutral1>
+RAGNA: Are you taking... notes? <Ragna Confused1>
+PEARL: Why? What's wrong with taking notes? <Pearl Talking1>
+RAGNA: I'm just surprised you think that a criminal's words are worth hanging onto. <Ragna Neutral1>
+PEARL: ...Words are words. <Pearl Neutral1>
+PEARL: Even wise words can come from someone who looks like a fool. <Pearl Smug1>
+RAGNA: Tch. Keep your proverbs to yourself. <Ragna Explaining1>
+RAGNA: ...... <Ragna Neutral1>
+RAGNA: Gah! <Ragna Distressed2>
+
+[RAGNA's food spills onto the floor.]
+
+PEARL: Watch it, you careless- <Pearl Angry1>
+PEARL: ...! <Pearl Distressed3>
+
+[Cut to still of RAGNA looking at his hands, which are badly scarred. A bowl of soup is lying upturned on the floor.]
+
+PEARL: Your hands... <Pearl Distressed4>
+RAGNA: ...... <Ragna Distressed3>
+RAGNA: Those friends of yours really got me good, didn't they? <Ragna Neutral1>
+RAGNA: Look at me. Can't even hold a damn spoon properly... much less pilot a ship. <Ragna Explaining1>
+RAGNA: You must be proud. <Ragna Angry2>
+PEARL: ...It was the only way to spare your life. <Pearl Neutral1>
+RAGNA: Of course it was. <Ragna Annoyed1>
+
+[Exterior shots of ship floating in space]
+[Cut back to canteen.]
+[RAGNA stands up and walks past PEARL.]
+
+RAGNA: Listen. I may have saved your ass this time. <Ragna Talking4>
+RAGNA: But that doesn't mean I trust you. <Ragna Angry2>
+RAGNA: You, and everyone else in the damn Trade Union... <Ragna Angry1>
+RAGNA: You won't get an ounce of gratitude from me. <Ragna Tired1>
+
+[RAGNA leaves. PEARL follows him out after a while]
+
+PEARL: ...... <Pearl Neutral1>
+PEARL: He's gone. <Pearl Talking1>
+
+[PEARL looks around for a moment before walking over to a window in the corridor.]
+
+PEARL: Ragna Vaulter, the Ash Tyrant... <Pearl Neutral1>
+PEARL: We have a long journey ahead of us, don't we? <Pearl Tired1>
+
+[Zoom out to shot of the Arpeggio traveling among the stars to its next destination.]
